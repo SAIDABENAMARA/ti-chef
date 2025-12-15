@@ -1,6 +1,12 @@
 /*recette*/
 
 
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
 
 
 
@@ -63,6 +69,9 @@
 
 .gap {
   gap: var(--gap);
+}
+.gap12{
+  gap: 12px;
 }
 /*class de largeur*/
 .w40{
@@ -225,18 +234,16 @@ a:hover>i {
     background-color: rgb(105, 104, 102);
     
     padding: 5px 15px ;
-    border-radius: 20px;
+    border-radius: 10px;
     
     margin-top: 100px;
     
 
 }
 
-ul {
+.liste-puce{
   list-style-type: none;
 }
-
-
 
 /*générique*/
 
