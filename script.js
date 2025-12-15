@@ -68,15 +68,15 @@ function afficherrecette(tableaurecette) {
                 <div class=" w22">
                     <!-- div image et tittre-->
                     <div class="w100">
-                        <img src="${recette.img[0]}" class="w22">
+                        <img src="${recette.img[0]}" class="w100 img">
                        
                         <h3>${recette.nom}</h3>
                     </div>
                     <!-- div images  -->
                     <div class="w100 flex space-between">
-                        <img src="${recette.img[1]}" class="w22">
-                        <img src="${recette.img[2]}" class="w22">
-                        <img src="${recette.img[3]}" class="w22">
+                        <img src="${recette.img[1]}" class="w33 ">
+                        <img src="${recette.img[2]}" class="w33">
+                        <img src="${recette.img[3]}" class="w33">
                     </div>
                 </div>
                 <!--  div details collone2  -->

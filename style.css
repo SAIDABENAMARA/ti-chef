@@ -231,7 +231,7 @@ a:hover>i {
 /*carte*/
 .carte {
     width: 100%;
-    background-color: rgb(105, 104, 102);
+    background-color: rgb(243, 220, 193);
     
     padding: 5px 15px ;
     border-radius: 10px;
@@ -240,12 +240,21 @@ a:hover>i {
     
 
 }
-
+.img{
+  width: 33%;
+  border-radius: 10px;
+}
 .liste-puce{
   list-style-type: none;
 }
 
-/*générique*/
+/*fotter*/
+.cart{
+  background-color: rgb(247, 206, 156);
+}
+tichef{
+
+}
 
 
 
