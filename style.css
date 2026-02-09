@@ -127,6 +127,8 @@ h3,
 h4,
 h5,
 h6,
+p,
+
 .title {
   margin-bottom: 16px;
   color: var(--premier-plan);
